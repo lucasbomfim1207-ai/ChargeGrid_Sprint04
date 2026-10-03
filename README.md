@@ -108,24 +108,6 @@ pip install matplotlib   # opcional, para gerar o gráfico
 python simulacao/simular_perfil.py
 ```
 
-##  Estrutura do repositório
-
-```
-├── README.md
-├── Sprint4_ChargeGrid_FIAP.pdf
-├── codigo/
-│   ├── main.py               # E/S: botão, ADC, LED, LCD, Serial
-│   ├── controle.py           # lógica de controle (testável sem hardware)
-│   ├── lcd_api.py            # biblioteca LCD
-│   ├── machine_i2c_lcd.py    # driver LCD I2C
-│   ├── diagram.json          # circuito do Wokwi
-│   └── wokwi-project.txt
-├── simulacao/
-│   ├── simular_perfil.py
-│   └── dados_simulacao.csv
-└── docs/                     # diagramas, circuito e gráfico
-```
-
 ##  Avaliação crítica
 
 **Pontos fortes:** separação entre controle e hardware; filtro, histerese e reserva de bateria; telemetria e métricas de sustentabilidade por sessão.
