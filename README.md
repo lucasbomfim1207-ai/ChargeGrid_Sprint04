@@ -100,7 +100,7 @@ Perfil de demanda reproduzível (potenciômetro de ≈ 25% → 95% → 25% em 90
 **No Wokwi (recomendado)**
 1. Abra o [projeto no Wokwi](https://wokwi.com/projects/476802909288083457).
 2. Garanta que existem os arquivos `main.py`, `controle.py`, `lcd_api.py`, `machine_i2c_lcd.py` e `diagram.json` (copie de `codigo/`).
-3. Clique em ▶, pressione o botão verde para iniciar a sessão e gire o potenciômetro. Pressione o botão novamente para encerrar.
+3. Pressione o botão verde para iniciar a sessão e gire o potenciômetro. Pressione o botão novamente para encerrar.
 
 **Simulação em Python (sem hardware)**
 ```bash
