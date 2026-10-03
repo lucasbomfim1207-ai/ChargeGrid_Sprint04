@@ -4,7 +4,7 @@
 
 Estação de recarga inteligente que decide, em tempo real, como atender a demanda de energia: **primeiro solar, depois a bateria Goodwe e, por último, a rede elétrica**. Protótipo em **ESP32 + MicroPython**, simulado no **Wokwi**.
 
-[ Simular no Wokwi](https://wokwi.com/projects/476802909288083457) · [ Vídeo de demonstração](LINK_DO_VIDEO_YOUTUBE) · [ Documento PDF](Sprint4_ChargeGrid_FIAP.pdf)
+[ Simular no Wokwi](https://wokwi.com/projects/476802909288083457) · [ Vídeo de demonstração](https://youtu.be/48N9BM1IYtw) · [ Documento PDF](Sprint4_ChargeGrid_FIAP.pdf)
 
 ---
 
